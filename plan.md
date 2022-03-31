@@ -30,7 +30,7 @@ ___
     - _X_ _could_ run, but the anticheat won't function 100% and might report usage as "hacking" or simply quit the game
   - intrusiveness
   - Valorant's Vanguard = good example
-    - extremely high privleges, runs 24/7(even when game isn't running)
+    - extremely high privileges, runs 24/7(even when game isn't running)
       - obvious privacy issues for black-box with root access
         - "trust me bro"
       - plus, if Vanguard's compromised, attackers have a 24/7 "legit" backdoor into the computer
