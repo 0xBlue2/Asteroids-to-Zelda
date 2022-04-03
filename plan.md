@@ -1,5 +1,5 @@
 # Overview:
-__each month, make a remake a game from a certain time(increasing in recency), and talk about how it's creators prevent misuse__
+__each month, make a remake a game from a certain time(increasing in recency), and talk about how it's creators prevent misuse/exploits__
 ### Some points to cover
 ___
 #### At a High Level:
@@ -12,15 +12,16 @@ ___
 - that's all well and good, but how do I secure my game?(general advice)
   - great video here - https://www.youtube.com/watch?v=hI7V60r7Jco
   - will add more as I learn more, but generally:
-    - only send necessary data(can't hack what you don't have)
-    - find balance between security and usability - server can't process _everything_, but don't for example, let the client decide how much money it has
+    - only send necessary data(can't hack what you don't have), think [Fog of War](https://en.wikipedia.org/wiki/Fog_of_war#In_video_games)
+    - find balance between security and usability - server can't process _everything_, but you probably shouldn't let the client decide how much money it has
     - ...
 #### Monthly:
 - how did they original creators implement it?
   - gold mine - https://www.youtube.com/c/TechRules
-  - older games --> custom hardware
+  - older games --> custom hardware/securiy
   - newer games --> standardized platforms = standardized security?
-    - cracking game might require you beat game platform, making it harder
+    - cracking a modern game might require you to beat game platform, making it harder(or easier*)
+      - "your"
 - how could it be improved technically(remembering limitations of time period)?
   - does it need to be improved?
     - it's not "100% unhackable," but nothing is
